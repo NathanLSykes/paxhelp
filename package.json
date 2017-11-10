@@ -1,0 +1,7 @@
+{
+  "name": "paxhelp",
+  "version": "1.0.0",
+  "description": "PAX Help Status System",
+  "main": "bot.js",
+  "author": "PAX Community Systems",
+  "dependencies": {}
